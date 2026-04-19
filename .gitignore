@@ -1,0 +1,86 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# FastAPI / local runtime
+*.log
+.env
+.env.*
+!.env.example
+
+# Node / React
+node_modules/
+dist/
+build/
+.vite/
+.next/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS / editors
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Data: keep folders, ignore heavy/private files
+data/raw/*
+data/processed/*
+data/external/*
+data/artifacts/*
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+!data/external/.gitkeep
+!data/artifacts/.gitkeep
+
+# Model checkpoints and generated evaluation outputs
+models/checkpoints/*
+models/registry/*
+models/baseline/*
+models/cnn/*
+models/lstm/*
+models/bert/*
+evaluation/reports/*
+evaluation/figures/*
+evaluation/metrics/*
+!models/checkpoints/.gitkeep
+!models/registry/.gitkeep
+!models/baseline/.gitkeep
+!models/cnn/.gitkeep
+!models/lstm/.gitkeep
+!models/bert/.gitkeep
+!evaluation/reports/.gitkeep
+!evaluation/figures/.gitkeep
+!evaluation/metrics/.gitkeep
+
+# Dashboard generated/exported assets
+dashboard/assets/images/*
+dashboard/assets/styles/*
+!dashboard/assets/images/.gitkeep
+!dashboard/assets/styles/.gitkeep
+
+# Generated outputs
+outputs/
+
+# Saved preprocessing artifacts
+artifacts/*
+!artifacts/.gitkeep
