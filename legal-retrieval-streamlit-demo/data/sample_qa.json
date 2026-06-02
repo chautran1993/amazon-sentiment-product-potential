@@ -1,0 +1,123 @@
+[
+  {
+    "id": 1,
+    "question": "Một người lao động ký hợp đồng xác định thời hạn 30 tháng với công ty X. Hết hạn 2 tháng (thời hạn thử việc luật định dành cho người lao động này), người lao động vẫn tiếp tục làm việc mà không ký hợp đồng mới. Trong thời gian này, công ty cho người lao động thử việc lại 60 ngày vì “cần đánh giá năng lực mới”. Sau đó công ty chấm dứt vì cho rằng không đạt. Công ty làm như vậy là đúng hay sai?",
+    "answer": "Công ty làm như vậy là sai. Sau khi hợp đồng lao động xác định thời hạn 30 tháng hết hạn, nếu người lao động vẫn tiếp tục làm việc mà trong thời hạn 30 ngày kể từ ngày hết hạn hai bên không ký hợp đồng mới, thì hợp đồng đã giao kết đương nhiên trở thành hợp đồng lao động không xác định thời hạn kể từ ngày thứ 31. Trong trường hợp này, người lao động đã làm việc liên tục 2 tháng sau khi hết hạn hợp đồng, do đó quan hệ lao động giữa hai bên đã chuyển thành hợp đồng lao động không xác định thời hạn. Việc công ty yêu cầu người lao động “thử việc lại” 60 ngày là trái pháp luật, vì: Thử việc chỉ được áp dụng trước khi giao kết hợp đồng lao động; Không được áp dụng thử việc đối với người lao động đang làm việc theo hợp đồng lao động.",
+    "legal_basis": "Khoản 2 Điều 20, Điều 24, Khoản 2 Điều 25 và Khoản 1 Điều 27 Bộ luật Lao động 2019"
+  },
+  {
+    "id": 2,
+    "question": "Công ty Y thuê lại lao động từ doanh nghiệp X cho thuê lao động (có giấy phép). Người lao động làm việc được 20 tháng thì bị tai nạn lao động phải nghỉ điều trị 6 tháng (hưởng chế độ tai nạn lao động). Khi người lao động hồi phục, người lao động quyết định nghỉ việc (đúng luật), hỏi công ty Y hay doanh nghiệp X là bên có trách nhiệm trợ cấp thôi việc?",
+    "answer": "Cho dù ở đây có tồn tại quan hệ cho thuê lại lao động, nhưng người lao động ký hợp đồng lao động với doanh nghiệp X, do đó doanh nghiệp X là người sử dụng lao động theo pháp luật. Công ty Y (bên thuê lại) chỉ có trách nhiệm phối hợp trong việc đảm bảo quyền lợi của NLĐ trong thời gian làm việc tại công ty (ví dụ: an toàn lao động, điều kiện làm việc, báo cáo tai nạn lao động), không phát sinh nghĩa vụ về trợ cấp thôi việc. Khi người lao động chấm dứt hợp đồng lao động hợp pháp với doanh nghiệp X (sau khi hồi phục), nếu đáp ứng đủ điều kiện thì doanh nghiệp X có trách nhiệm chi trả trợ cấp thôi việc;",
+    "legal_basis": "Khoản 2 Điều 46, Khoản 1 Điều 52, Điều 57 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 3,
+    "question": "Người lao động làm việc theo hợp đồng không xác định thời hạn, đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động. Công ty nợ lương 06 tháng không có lý do chính đáng, dẫn đến người lao động đơn phương chấm dứt hợp đồng vì lý do này. Sau khi chấm dứt, người lao động tìm được việc mới và giao kết hợp đồng load động sau 10 ngày kể từ ngày nộp đủ hồ sơ hưởng trợ cấp thất nghiệp. Người lao động có được hưởng trợ cấp thất nghiệp không?",
+    "answer": "Người lao động không được hưởng trợ cấp thất nghiệp trong trường hợp này. Mặc dù người lao động: đã đóng bảo hiểm thất nghiệp từ đủ 12 tháng trở lên trong thời gian 24 tháng trước khi chấm dứt hợp đồng lao động; và Việc đơn phương chấm dứt hợp đồng do công ty nợ lương là có căn cứ hợp pháp; Tuy nhiên, trong tình huống này, người lao động đã tìm được việc làm và giao kết hợp đồng lao động mới sau 10 ngày kể từ ngày nộp đủ hồ sơ hưởng trợ cấp thất nghiệp thì họ không còn đủ điều kiện hưởng trợ cấp thất nghiệp (giả sử rằng người lao động thuộc đối tượng tham gia bảo hiểm xã hội bắt buộc).",
+    "legal_basis": "Khoản 1 Điều 38 Luật Việc làm 2025"
+  },
+  {
+    "id": 4,
+    "question": "Công ty Z ký hợp đồng thử việc 60 ngày với nhân viên marketing (công việc không thuộc danh mục đặc thù). Sau 40 ngày, công ty chấm dứt thử việc vì “không phù hợp văn hóa doanh nghiệp” và không trả lương cho 40 ngày đã làm. Hành vi này có đúng không? Người lao động có quyền gì trong trường hợp này?",
+    "answer": "Hành vi chấm dứt thử việc đối với nhân viên vì “không phù hợp văn hóa doanh nghiệp” sau 40 ngày của công ty Z là đúng. Tuy nhiên, dù trong trường hợp nào, việc công ty không trả lương cho 40 ngày người lao động đã làm việc là trái pháp luật, vì: Trong thời gian thử việc, người lao động vẫn phải được trả lương; Mức lương thử việc ít nhất bằng 85% mức lương của công việc đó.",
+    "legal_basis": "Điều 24, Điều 25, Điều 26 và Khoản 2 Điều 27 Bộ luật Lao động 2019; Điều 7 Nghị định 145/2020/NĐ-CP"
+  },
+  {
+    "id": 5,
+    "question": "Trong hợp đồng lao động, hai bên thỏa thuận: “30% tiền lương sẽ trả bằng hiện vật (gạo, thực phẩm) vì công ty đang khó khăn tài chính, người lao động đồng ý”. Thỏa thuận này có hiệu lực pháp lý không?",
+    "answer": "Thỏa thuận trả lương bằng hiện vật là không đúng với quy định của pháp luật. Theo quy định, lương trả cho người lao động phải là tiền (bằng tiền Đồng Việt Nam, trường hợp người lao động là người nước ngoài tại Việt Nam thì có thể bằng ngoại tệ). Đồng thời luật cũng nói rõ là chỉ có 02 hình thức trả lương là trả bằng tiền mặt hoặc trả qua tài khoản cá nhân của người lao động được mở tại ngân hàng => Luật không cho phép trả bằng hiện vật.",
+    "legal_basis": "Khoản 2 Điều 95 và Khoản 2 Điều 96 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 6,
+    "question": "Người lao động làm việc 10 tháng thì bị sa thải vì vi phạm kỷ luật nghiêm trọng (đánh bạc trong giờ làm). Công ty từ chối trả tiền phép năm chưa nghỉ và trợ cấp thôi việc. Quyết định của công ty có đúng không?",
+    "answer": "Giả sử công ty đã sa thải người lao động đúng với quy định pháp luật, Công ty đúng về việc không trả trợ cấp thôi việc (chấm dứt hợp đồng lao động trong trường hợp bị sa thải không thuộc trường hợp được hưởng trợ cấp thôi việc). Tuy nhiên, việc công ty từ chối trả tiền phép năm chưa nghỉ của người lao động là trái pháp luật. Công ty vẫn có nghĩa vụ phải trả tiền phép năm chưa nghỉ theo đúng quy định pháp luật. Sa thải không làm mất quyền này.",
+    "legal_basis": "Điều 46 và Khoản 3 Điều 113 Bộ luật Lao động 2019"
+  },
+  {
+    "id": 7,
+    "question": "Một người lao động ký đồng thời 2 hợp đồng lao động: 1 hợp đồng với công ty mẹ (18 tháng) và 1 hợp đồng với công ty con (12 tháng) cho cùng một công việc. Khi cả hai hợp đồng cùng hết hạn, công ty tính trợ cấp thôi việc chỉ trên hợp đồng có thời hạn dài hơn. Cách tính này có đúng không?",
+    "answer": "Cách tính trợ cấp thôi việc như trên của công ty là không đúng. Mỗi hợp đồng lao động là quan hệ độc lập. Pháp luật cũng cho phép Người lao động có thể giao kết nhiều hợp đồng lao động với nhiều người sử dụng lao động miễn là bảo đảm thực hiện đầy đủ các nội dung đã giao kết. Trợ cấp thôi việc phải tính riêng cho từng hợp đồng theo các tiêu chí của từng quan hệ lao động.",
+    "legal_basis": "Điều 19 và Điều 46 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 8,
+    "question": "Người lao động đang mang thai 6 tháng, hợp đồng xác định thời hạn còn 3 tháng nữa hết hạn. Tuy nhiên, do nhận thấy năng suất lao động của người lao động nữ không còn được như trước, công ty và thông báo chấm dứt hợp đồng lao động, hứa sẽ trả đầy đủ lương cho 03 tháng còn lại của hợp đồng. Công ty làm như vậy có đúng ko?",
+    "answer": "Công ty làm như vậy là trái pháp luật. Cụ thể: Người lao động đang mang thai 6 tháng là đối tượng được pháp luật bảo vệ đặc biệt. Người sử dụng lao động không được quyền đơn phương chấm dứt hợp đồng lao động với lao động nữ vì lý do mang thai hoặc vì lý do liên quan đến tình trạng mang thai. Trong tình huống này, việc công ty cho rằng “năng suất lao động không còn như trước” trong thời gian người lao động đang mang thai là lý do không hợp pháp để chấm dứt hợp đồng lao động. Việc công ty đề nghị trả đủ lương cho 03 tháng còn lại của hợp đồng không làm hợp pháp hóa hành vi chấm dứt hợp đồng trái pháp luật",
+    "legal_basis": "Khoản 3 Điều 137 Bộ luật Lao động 2019"
+  },
+  {
+    "id": 9,
+    "question": "Công ty sử dụng 25 lao động là người khuyết tật. Công ty có được giảm mức đóng BHTN cho những lao động này không?",
+    "answer": "Có. Theo quy định thì người sử dụng lao động khi tuyển dụng mới và sử dụng người lao động là người khuyết tật thì được giảm mức đóng bảo hiểm thất nghiệp từ 1% xuống 0% tiền đóng bảo hiểm thất nghiệp thuộc trách nhiệm của người sử dụng lao động phải đóng cho người lao động là người khuyết tật trong thời gian người lao động làm việc nhưng thời gian hỗ trợ không quá 12 tháng đầu kể từ khi tuyển mới người lao động khuyết tật.",
+    "legal_basis": "Điều 5 Nghị định 374/2025/NĐ-CP."
+  },
+  {
+    "id": 10,
+    "question": "Tôi là người Công giáo và trong hợp đồng lao động ký với công ty, tôi còn được nghỉ phép hưởng nguyên lương vào ngày 25/12 hàng năm. Cho tôi hỏi việc công ty cho tôi nghỉ phép như vậy là bắt buộc hay chỉ là một chế độ đặc biệt?",
+    "answer": "Việc công ty cho bạn nghỉ phép hưởng nguyên lương vào ngày 25/12 không phải là nghĩa vụ bắt buộc theo pháp luật, mà là chế độ đãi ngộ/thoả thuận riêng có lợi hơn cho người lao động. Cụ thể, theo quy định pháp luật lao động, các ngày nghỉ lễ, Tết được hưởng nguyên lương là danh mục cố định, và không bao gồm ngày 25/12 (Lễ Giáng sinh).",
+    "legal_basis": "Điều 112 Bộ luật Lao động 2019"
+  },
+  {
+    "id": 11,
+    "question": "Công ty chậm đóng BHXH bắt buộc 7 tháng cho người lao động. Vào thời điểm đóng cho 7 tháng đó, Công ty cho rằng chỉ đồng ý đóng số tiền gốc. Công ty có đúng không?",
+    "answer": "Công ty làm như vậy là không đúng pháp luật. Khi chậm đóng bảo hiểm xã hội, công ty bắt buộc đóng đủ số tiền chậm đóng; ngoài ra còn phải nộp số tiền bằng 0,03%/ngày tính trên số tiền bảo hiểm xã hội, bảo hiểm thất nghiệp chậm đóng và số ngày chậm đóng vào quỹ bảo hiểm xã hội, quỹ bảo hiểm thất nghiệp.",
+    "legal_basis": "Điều 40 Luật Bảo hiểm xã hội 2024."
+  },
+  {
+    "id": 12,
+    "question": "Người lao động bị sa thải vì tiết lộ bí mật kinh doanh. Đồng thời công ty đang nợ lương làm thêm giờ 3 tháng. Người lao động khiếu nại đòi lương làm thêm và trợ cấp thôi việc. Công ty cho rằng sa thải nên “không phải trả gì”. Công ty có đúng không?",
+    "answer": "Nhận định của công ty là không đúng với quy định của pháp luật. Việc người lao động bị sa thải chỉ làm phát sinh một số hệ quả pháp lý nhất định, không đồng nghĩa với việc công ty được miễn toàn bộ nghĩa vụ đối với người lao động. Tiền lương làm thêm giờ (3 tháng chưa trả) Công ty bắt buộc phải thanh toán đầy đủ, vì đây là tiền lương đã phát sinh hợp pháp trong quá trình người lao động làm việc. Sa thải không làm mất quyền hưởng tiền lương. Trợ cấp thôi việc Người lao động không được hưởng, vì bị sa thải thuộc trường hợp bị loại trừ khỏi chế độ trợ cấp thôi việc theo quy định => công ty không phải trả khoản này",
+    "legal_basis": "Điều 46, Điều 95 và Điều 98 Bộ luật Lao động 2019"
+  },
+  {
+    "id": 13,
+    "question": "Người lao động ký hợp đồng xác định thời hạn 12 tháng. Sau 3 tháng làm việc, hai bên thỏa thuận kéo dài thời gian thử việc thêm 1 tháng nữa vì “cần đánh giá thêm”. Thỏa thuận này có hợp pháp không?",
+    "answer": "Thỏa thuận này là không hợp pháp. Thử việc chỉ được thực hiện một lần đối với một công việc và phải thực hiện trước khi giao kết hợp đồng lao động. Sau khi đã ký hợp đồng lao động chính thức thì không được thỏa thuận “kéo dài thử việc” hay “thử việc lại”.",
+    "legal_basis": "Điều 24 và Điều 25 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 14,
+    "question": "Công ty quy định trong nội quy: “Người lao động đi trễ 3 lần trong tháng sẽ bị trừ 50% tiền lương tháng đó”. Quy định này có hợp pháp không?",
+    "answer": "Quy định này là không hợp pháp. Người sử dụng lao động không được áp dụng hình thức xử phạt bằng cách phạt tiền, cắt lương thay cho xử lý kỷ luật lao động.",
+    "legal_basis": "Khoản 2 Điều 127 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 15,
+    "question": "Công ty yêu cầu người lao động ký cam kết “không được làm việc cho đối thủ cạnh tranh trong 2 năm sau khi nghỉ việc”, nếu vi phạm phải bồi thường 200 triệu đồng. Cam kết này có hiệu lực không?",
+    "answer": "Cam kết này có thể có hiệu lực nhưng phải đáp ứng điều kiện chặt chẽ của pháp luật lao động. Pháp luật cho phép các bên thỏa thuận bảo vệ bí mật kinh doanh, bí mật công nghệ trong hợp đồng lao động hoặc một thỏa thuận bảo mật độc lập, nhưng phải xác định rõ phạm vi, thời hạn, quyền lợi và nghĩa vụ của các bên và phải đảm bảo nội dung thỏa thuận không vi phạm bất kì quy định nào của pháp luật.",
+    "legal_basis": "Điều 21 khoản 2 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 16,
+    "question": "Công ty giao kết hợp đồng lao động với người 17 tuổi làm công việc văn phòng, nhưng không hỏi ý kiến cha mẹ. Hợp đồng này có hợp pháp không?",
+    "answer": "Hợp đồng này là không hợp pháp. Theo quy định, khi giao kết hợp đồng lao động với lao động từ đủ 15 tuổi đến chưa đủ 18 tuổi, bắt buộc phải có có sự đồng ý bằng văn bản của người đại diện theo pháp luật của người đó.",
+    "legal_basis": "Khoản 4 Điều 18 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 17,
+    "question": "Người lao động ký HĐLĐ xác định thời hạn 12 tháng. Đến tháng thứ 11, công ty thông báo chấm dứt ngay vì “thường xuyên không hoàn thành công việc” theo nội quy. Tuy nhiên công ty không có đánh giá định kỳ bằng văn bản trước đó. Việc chấm dứt này có hợp pháp không?",
+    "answer": "Việc công ty chấm dứt hợp đồng lao động với người lao động trong trường hợp này là không đúng với quy định của pháp luật. Để đơn phương chấm dứt do “thường xuyên không hoàn thành công việc”, người sử dụng lao động phải xác định theo tiêu chí đánh giá mức độ hoàn thành công việc trong quy chế của người sử dụng lao động. Quy chế đánh giá mức độ hoàn thành công việc do người sử dụng lao động ban hành nhưng phải tham khảo ý kiến tổ chức đại diện người lao động tại cơ sở đối với nơi có tổ chức đại diện người lao động tại cơ sở.",
+    "legal_basis": "Điểm a khoản 1 Điều 36 Bộ luật Lao động 2019"
+  },
+  {
+    "id": 18,
+    "question": "Công ty ký HĐLĐ với người lao động, nhưng trong hợp đồng ghi “mức lương đã bao gồm tiền làm thêm giờ”. Sau đó công ty không trả thêm tiền khi người lao động làm thêm. Thỏa thuận này có hợp pháp không?",
+    "answer": "Thỏa thuận này là không hợp pháp. Tiền lương làm thêm giờ là một khoản thu nhập độc lập với tiền lương của người lao động theo hợp đồng lao động. Theo quy định, công ty bắt buộc phải trả tiền lương làm thêm giờ cho người lao động, phụ thuộc vào nhiều tiêu chí (số giờ làm thêm, Thời điểm làm thêm (ngày thường, ngày nghỉ hằng tuần, ngày lễ, Tết), mức lương của công việc đang làm, …)",
+    "legal_basis": "Khoản 3 Điều 95, Điều 98 và Điều 107 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 19,
+    "question": "Công ty có 1 lao động nữ đang nuôi con dưới 12 tháng tuổi. Do nhu cầu sản xuất, công ty yêu cầu người lao động này làm thêm giờ vào buổi tối, trong nội quy công ty có quy định rằng rằng “trong những trường hợp đặc biệt mà công ty thấy cần thiết, người lao động vẫn phải làm thêm giờ”. Người lao động từ chối và bị kỷ luật. Việc kỷ luật này có hợp pháp không?",
+    "answer": "Việc kỷ luật này là không hợp pháp. Pháp luật quy định người sử dụng lao động không được sử dụng lao động nữ đang nuôi con dưới 12 tháng tuổi làm thêm giờ, làm việc ban đêm hoặc đi công tác xa, kể cả khi có quy định trong nội quy. Do đó, việc yêu cầu làm thêm là trái luật, và việc kỷ luật vì từ chối là không có căn cứ pháp lý.",
+    "legal_basis": "Khoản 1 Điều 137 Bộ luật Lao động 2019."
+  },
+  {
+    "id": 20,
+    "question": "Lao động nữ mang thai từ tháng thứ 7 tự nguyện thỏa thuận làm việc ban đêm thì công ty có được sử dụng không?",
+    "answer": "Thỏa thuận này là trái pháp luật. Pháp luật cấm người sử dụng lao động sử dụng lao động nữ mang thai từ tháng thứ 07 hoặc từ tháng thứ 06 nếu làm việc ở vùng cao, vùng sâu, vùng xa, biên giới, hải đảo làm việc ban đêm. Do đó, cho dù người lao động có đồng ý thì thỏa thuận trên cũng bị xem là trái pháp luật.",
+    "legal_basis": "Khoản 1 Điều 137 Bộ luật Lao động 2019.",
+    "note": "Câu hỏi được suy ra vì ô câu hỏi ở dòng 20 trong file Word đang trống."
+  }
+]
